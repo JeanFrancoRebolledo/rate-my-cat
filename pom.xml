@@ -13,6 +13,9 @@
     </parent>
 
     <properties>
+        <sonar.organization>jeanfrancorebolledo</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+        
         <selenium-jupiter.version>4.0.1</selenium-jupiter.version>
 
         <maven-surefire-plugin.version>2.22.2</maven-surefire-plugin.version>
